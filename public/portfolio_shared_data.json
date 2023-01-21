@@ -1,20 +1,20 @@
 {
     "basic_info": {
       "name": "Paula Davidson",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Software Developer","Touch to Tech. I want my career to enable connection and quality for people around the world."],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/Calla-P",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/paula-davidson-59123a252/",
+          "class": "fab fa-linkedin-in"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "paula.png"
     },
     "skills": {
       "icons": [
@@ -34,35 +34,16 @@
           "level": "80"
         },
         {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
-          "level": "90"
-        },
-        {
           "name": "JavaScript",
           "class": "devicon-javascript-plain",
           "level": "70"
         },
         {
-          "name": "Sass",
-          "class": "devicon-sass-original",
-          "level": "75"
-        },
-        {
           "name": "Bootstrap",
           "class": "devicon-bootstrap-plain",
           "level": "85"
-        },
-        {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
-          "level": "65"
-        },
-        {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
-          "level": "60"
         }
+
       ]
     }
   }
