@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Paula Davidson",
-      "titles": [ "Software Developer","Touch to Tech. I want my career to enable connection and quality for people around the world."],
+      "titles": [ "Software Developer -"," Touch to Tech. I want my career to enable connection and quality for people around the world."],
       "social": [
         {
           "name": "github",
@@ -28,11 +28,7 @@
           "class": "devicon-css3-plain",
           "level": "95"
         },
-        {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
-          "level": "80"
-        },
+       
         {
           "name": "JavaScript",
           "class": "devicon-javascript-plain",
