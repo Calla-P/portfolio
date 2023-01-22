@@ -81,37 +81,33 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Code Fellows",
+        "title": "Student Full-Stack Developer",
+        "years": "8.2021 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "JavaScript"
         ],
         "technologies": [
-          "REST API",
+          "LocationI API",
           "RxJS",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "React-Bootstrap",
+          "CSS",
+          "HTML5"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Olympic Sport and Spine",
+        "title": "Licensed Massage Therapist",
+        "years": "04.2021 - Present",
         "mainTech": [
-          "Angular 7/8"
+          "Medical Software"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Microsoft Teams",
+          "Google Calender",
+          "Excel"
         ]
       }
     ]
