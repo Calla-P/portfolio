@@ -45,7 +45,7 @@ class Footer extends Component {
                 }
                 style={{ display: "inline" }}
               >
-              
+                
               </div>
             </div>
             <div className="col">
