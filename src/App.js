@@ -24,14 +24,14 @@ class App extends Component {
     var resumePath =
       document.documentElement.lang === window.$primaryLanguage
         ? `res_primaryLanguage.json`
-        : `res_secondaryLanguage.json`;
+        : `res_primaryLanguage.json`;
     this.loadResumeFromPath(resumePath);
   }
 
   swapCurrentlyActiveLanguage = (oppositeLangIconId) => {
     var pickedLangIconId =
       oppositeLangIconId === window.$primaryLanguageIconId
-        ? window.$secondaryLanguageIconId
+        ? window.$primaryLanguageIconId
         : window.$primaryLanguageIconId;
     document
       .getElementById(oppositeLangIconId)
@@ -45,7 +45,7 @@ class App extends Component {
     this.loadSharedData();
     this.applyPickedLanguage(
       window.$primaryLanguage,
-      window.$secondaryLanguageIconId
+      window.$primaryLanguageIconId
     );
   }
 
